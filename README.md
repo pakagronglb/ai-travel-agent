@@ -1,4 +1,10 @@
-# Travel AI Agent
+# Travel AI Agent ✈️
+
+
+
+https://github.com/user-attachments/assets/0776cf32-875b-4c11-879b-d1237a851a73
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green.svg)
